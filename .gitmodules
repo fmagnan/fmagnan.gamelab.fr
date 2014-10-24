@@ -1,3 +1,0 @@
-[submodule "themes/pacman"]
-	path = themes/pacman
-	url = git@github.com:fmagnan/pacman.git
