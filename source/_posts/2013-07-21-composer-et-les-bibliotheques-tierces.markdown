@@ -40,7 +40,7 @@ Pour illustrer mon propos, j'ai récupéré tous les projets de plusieurs organi
  * [KnpLabs][knplabs] --> [la liste](http://packages.gamelab.fr/?org=KnpLabs)
  * [Symfony](http://symfony.com/) --> [la liste](http://packages.gamelab.fr/?org=Symfony)
 
-## Conclusion
+### Conclusion
 Avec l'avènement de [composer][composer] dans le monde PHP, on ne devrait se soucier que du code métier. Toutes les problématiques "_générales_" devraient être résolues par des bibliothèques tierces. Et tant qu'à faire, autant capitaliser sur les mêmes.
 
 [github]: https://github.com/

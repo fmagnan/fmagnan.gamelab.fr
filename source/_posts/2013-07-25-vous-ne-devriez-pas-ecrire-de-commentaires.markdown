@@ -70,7 +70,7 @@ développeurs, tout le contraire du but initial. _A contrario_, si le code ne co
 les développeurs viendront lire le code qui lui, ne se trompe pas.
 > Contrairement à certains commentaires, le code dit ce qu'il fait et fait ce qu'il dit.
 
-## Conclusion
+### Conclusion
 Vous l'aurez compris, ce billet est hautement provocateur. Il n'est pas dans mon intention de
 prôner l'absence totale de commentaires. Je souhaite plutôt pointer du doigt les dérives qu'ils
 peuvent engendrer. Ecrire des commentaires, c'est donner du sens à son code. Dans certains cas,

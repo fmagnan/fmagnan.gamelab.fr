@@ -114,7 +114,7 @@ de code mais dans le monde réel, c'est souvent très difficile à mettre en pla
 
 Il faut donc choisir son camp, j'ai choisi le mien ;)
 
-## Conclusion
+### Conclusion
 Eliminer toute duplication dans son code permet d'accélerer les développements et la maintenance.
 Rendre son code expressif en permet une meilleure compréhension pour le lecteur futur.
 Parfois même, de l'association des 2 émerge un design clair qui facilite l'évolutivité du code.
