@@ -6,7 +6,6 @@ tags:
 comments: true
 ---
 
-## Introduction
 Dans le domaine du développement logiciel, nous sommes régulièrement amenés à relire du code pour au choix :
 
 * découvrir les raisons d'un dysfonctionnement

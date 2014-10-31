@@ -5,7 +5,6 @@ toc: false
 comments: true
 ---
 
-## Introduction
 On a coutume de dire, ou de lire, qu'un bon code est un code bien documenté. La documentation fait partie intégrante
 du travail du développeur et d'aucuns y attachent autant d'importance qu'au code lui-même. Mon avis personnel va
 à l'encontre de cette _croyance_. Non seulement documenter son code est une perte de temps, mais les effets pervers

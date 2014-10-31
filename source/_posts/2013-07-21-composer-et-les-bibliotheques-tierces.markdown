@@ -6,7 +6,6 @@ tags:
 comments: true
 ---
 
-## Introduction
 Dans mon entreprise, nous utilisons [GitHub][github] et plus précisément les "repositories" privés. Pour simplifier les choses, on a créé une organisation et ajouté tous nos projets à l'intérieur. Des projets, on en a beaucoup (plus de 40).
 Ils sont pour l'essentiel écrits en PHP et la plupart (tous ?) utilisent [composer][composer]. Comme je ne travaille pas sur tous ces projets, je ne sais pas quelles sont les bibliothèques utilisées par tel ou tel projet.
 
